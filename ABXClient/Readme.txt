@@ -1,5 +1,5 @@
 Step 1:
-git clone https://github.com/jayseth34/ABXClient.git
+https://github.com/jayseth34/ABXClient.git
 cd ABXClient
 
 Step 2:
